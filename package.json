@@ -1,0 +1,31 @@
+{
+  "name": "@allex6/backend-generator",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Allex6/backend-generator.git"
+  },
+  "author": "Alex Souza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Allex6/backend-generator/issues"
+  },
+  "homepage": "https://github.com/Allex6/backend-generator#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "cross-spawn": "^7.0.3",
+    "fs-extra": "^10.1.0",
+    "prompts": "^2.4.2"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "description": ""
+}
