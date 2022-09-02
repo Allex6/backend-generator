@@ -1,6 +1,6 @@
 {
   "name": "backend-generator",
-  "version": "1.1.42",
+  "version": "1.1.45",
   "type": "module",
   "main": "app.js",
   "bin": {
@@ -16,7 +16,30 @@
     "type": "git",
     "url": "git+https://github.com/Allex6/backend-generator.git"
   },
-  "author": "Alex Souza",
+  "description": "Simple script to create a structured backend using layered architecture, in addition to the automatic creation of CRUD's based on pre-defined models.",
+  "keywords": [
+    "cli",
+    "development",
+    "backend",
+    "generation",
+    "auto generation",
+    "terminal",
+    "architecture",
+    "layered architecture",
+    "prisma",
+    "postgres",
+    "javascript",
+    "typescript",
+    "nodejs",
+    "restful",
+    "api",
+    "joi",
+    "express"
+  ],
+  "author": {
+    "name": "Alex Souza",
+    "url": "https://github.com/Allex6"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Allex6/backend-generator/issues"
@@ -31,6 +54,5 @@
   "directories": {
     "lib": "lib"
   },
-  "devDependencies": {},
-  "description": ""
+  "devDependencies": {}
 }
