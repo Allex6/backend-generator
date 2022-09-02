@@ -1,10 +1,10 @@
 {
   "name": "backend-generator",
-  "version": "1.1.1",
+  "version": "1.1.42",
   "type": "module",
   "main": "app.js",
   "bin": {
-    "bg": "./bin/backend-generator.js"
+    "backend-generator": "app.js"
   },
   "engines": {
     "node": ">=16.14.0"
