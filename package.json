@@ -53,6 +53,5 @@
   },
   "directories": {
     "lib": "lib"
-  },
-  "devDependencies": {}
+  }
 }
