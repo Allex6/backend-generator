@@ -46,7 +46,7 @@ With a local installation, backend-generator will not be available in your syste
 backend-generator is a cli library, so just run the command to start the application.
 
 ```bash
-backend generator
+backend-generator
 ```
 
 This will launch the library displaying a series of options for you to choose and generate your project.
@@ -142,7 +142,7 @@ npm install -g backend-generator
 3 - Run the library to start the cli:
 
 ```bash
-backend generator
+backend-generator
 ```
 
 4 - Enter the path to the models.json file you just created:
